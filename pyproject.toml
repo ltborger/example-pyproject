@@ -1,3 +1,8 @@
 [project]
 name = "example_pyproject"
 version = "0.0.1a1"
+license = "MIT"
+license-file = "LICENSE.txt" 
+authors = [
+	{name = "Maggie May", email = "maggie.may@gmail.com"}
+]
